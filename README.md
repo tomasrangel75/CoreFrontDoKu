@@ -1,2 +1,2 @@
 # CoreFrontDoKu
-Estudo
+Estudo .NET CORE, Front (Vue or Angular), Docker, Kubernetes
